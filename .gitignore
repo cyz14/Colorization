@@ -1,0 +1,7 @@
+.vscode
+colorization_cpp
+*.bmp
+*.gif
+*.psd
+*.jpg
+*.pyc
