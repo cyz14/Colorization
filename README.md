@@ -9,7 +9,7 @@ http://www.cs.huji.ac.il/~yweiss/Colorization/index.html
 Scipy will fail when sparse matrix is too large on windows.
 Other platforms still need tests.
 
-2. Stroke should not have anti-alising
+2. Stroke should not have anti-aliasing
 
 When you use Photoshop or any other image editors to add scribbles,
 use solid stroke without anti-alising effect, or color will not expand around.
